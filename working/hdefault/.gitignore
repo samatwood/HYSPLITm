@@ -1,5 +1,1 @@
-# Ignore everything in this directory
-*
-# Except this file and hdefault/
-!.gitignore
-!hdefault/
+hyts_std.exe
