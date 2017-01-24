@@ -682,7 +682,6 @@ class HyBase(object):
             if more == 0:
                 break
         # Open Queue.txt to append new runs
-        os.chdir(self.HyS.h_dir)
         q_file = open(os.path.join(self.HyS.var_dir, 'Queue.txt'), 'a')
         for r in runset:
             q_file.write(r + '\n')
