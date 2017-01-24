@@ -21,7 +21,7 @@ naming system.
 
 This project is licensed under the terms of the MIT license.
 
-Bug reports can be sent to the above email.
+Bug reports can be sent to the above email or through github.
 
 
 USAGE INSTRUCTIONS:
